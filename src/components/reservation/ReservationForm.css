@@ -1,0 +1,83 @@
+.reservation-form-wrapper fieldset {
+  border: none;
+}
+
+.reservation-form-wrapper .field {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.reservation-form-wrapper .field label {
+  font-size: 18px;
+  margin: 0 0 5px 0px;
+  font-weight: 500;
+}
+
+.reservation-form-wrapper input {
+  padding: 10px;
+  border: 1px solid rgba(51, 51, 51, 0.3);
+  border-radius: 5px;
+  width: 100%;
+}
+
+.reservation-form-wrapper input[type="datetime-local"] {
+  color: #949494;
+}
+
+.reservation-form-wrapper .guestsdate {
+  display: grid;
+  grid-template-columns: 68% 28%;
+  gap: 4%;
+}
+
+.reservation-form-wrapper .occasion {
+  display: flex;
+  flex-direction: column;
+}
+
+.reservation-form-wrapper .options {
+  padding-right: 10px;
+  border: 1px solid rgba(51, 51, 51, 0.3);
+  border-radius: 5px;
+}
+
+.reservation-form-wrapper select {
+  padding: 10px;
+  outline: none;
+  border: none;
+  width: 100%;
+  font-size: 15px;
+  color: #949494;
+}
+
+.reservation-form-btn {
+  width: 100%;
+  padding: 20px;
+  cursor: pointer;
+  background-color: #333;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.reservation-form-btn:hover {
+  background-color: #495e57;
+  transition: 0.3s;
+}
+
+.error-message {
+  font-size: 15px;
+  color: red;
+  margin-top: 5px;
+}
+
+@media screen and (max-width: 1024px) {
+  .guestsdate {
+    display: flex;
+    flex-direction: column;
+  }
+}

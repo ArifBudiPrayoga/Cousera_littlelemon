@@ -1,0 +1,98 @@
+.reservation-wrapper {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.42),
+      rgba(0, 0, 0, 0.73)
+    ),
+    url("https://user-images.githubusercontent.com/70451928/222874465-67747b54-06d5-44c5-ac95-517f13610466.jpg");
+  width: 100%;
+  background-size: cover;
+}
+
+.reservation-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 100px;
+  width: 85%;
+  margin: 0px auto;
+  padding: 80px 0;
+}
+
+.reservation-text {
+  margin-top: 100px;
+  color: #fff;
+  width: 60%;
+}
+
+.reservation-text h2 {
+  margin-bottom: 30px;
+}
+
+.reservation-text p {
+  margin-bottom: 20px;
+}
+
+.reservation-form {
+  width: 40%;
+  height: auto;
+  background-color: #fff;
+  color: #333333;
+  border-radius: 10px;
+  padding: 30px 40px 50px;
+  text-align: left;
+}
+
+.reservation-form h1 {
+  font-size: 24pt;
+  margin-bottom: 7px;
+}
+
+.reservation-form p {
+  font-size: smaller;
+  margin-bottom: 30px;
+}
+
+@media screen and (max-width: 1024px) {
+  .reservation-container {
+    flex-direction: column;
+    width: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .reservation-text {
+    width: 100%;
+    margin-top: 50px;
+  }
+
+  .reservation-text p {
+    margin-bottom: 0;
+  }
+
+  .reservation-form {
+    width: 100%;
+    margin-top: -50px;
+  }
+}
+
+@media screen and (max-width: 784px) {
+  .reservation-wrapper {
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .reservation-text {
+    /* padding: 0 ; */
+    margin-top: -30px;
+  }
+
+  .reservation-text h2 {
+    margin-bottom: 15px;
+    font-size: 2rem;
+  }
+
+  .reservation-text p {
+    font-size: 1.1rem;
+  }
+}
