@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Cousera_littlelemon/static/css/main.b0e2b57b.css",
-    "main.js": "/Cousera_littlelemon/static/js/main.3234a87c.js",
-    "static/media/bruschetta1.jpg": "/Cousera_littlelemon/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
-    "static/media/salad.jpg": "/Cousera_littlelemon/static/media/salad.00b1567f5a694e5c3945.jpg",
-    "static/media/creme.jpg": "/Cousera_littlelemon/static/media/creme.3a9eaace5be031d2d7a0.jpg",
-    "static/media/gourmet.jpg": "/Cousera_littlelemon/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
-    "static/media/logo.jpg": "/Cousera_littlelemon/static/media/logo.7aa41df0270b68cbabda.jpg",
-    "static/media/footerlogo.png": "/Cousera_littlelemon/static/media/footerlogo.4470f9c9e815da98dbb3.png",
-    "index.html": "/Cousera_littlelemon/index.html",
-    "main.b0e2b57b.css.map": "/Cousera_littlelemon/static/css/main.b0e2b57b.css.map",
-    "main.3234a87c.js.map": "/Cousera_littlelemon/static/js/main.3234a87c.js.map"
+    "main.css": "/Cousera_littlelemo/static/css/main.b0e2b57b.css",
+    "main.js": "/Cousera_littlelemo/static/js/main.d37b0db8.js",
+    "static/media/bruschetta1.jpg": "/Cousera_littlelemo/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/Cousera_littlelemo/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/Cousera_littlelemo/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/Cousera_littlelemo/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/Cousera_littlelemo/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "static/media/footerlogo.png": "/Cousera_littlelemo/static/media/footerlogo.4470f9c9e815da98dbb3.png",
+    "index.html": "/Cousera_littlelemo/index.html",
+    "main.b0e2b57b.css.map": "/Cousera_littlelemo/static/css/main.b0e2b57b.css.map",
+    "main.d37b0db8.js.map": "/Cousera_littlelemo/static/js/main.d37b0db8.js.map"
   },
   "entrypoints": [
     "static/css/main.b0e2b57b.css",
-    "static/js/main.3234a87c.js"
+    "static/js/main.d37b0db8.js"
   ]
 }
