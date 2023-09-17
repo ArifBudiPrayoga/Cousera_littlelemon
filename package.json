@@ -2,7 +2,7 @@
   "homepage": "https://arifbudiprayoga.github.io/Cousera_littlelemon",
   "name": "little-lemon",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@hookform/resolvers": "2.9.11",
     "@testing-library/jest-dom": "^5.17.0",
