@@ -10,7 +10,9 @@ This Website running at localhost3000 [http://localhost:3000](http://localhost:3
 https://arifbudiprayoga.github.io/Cousera_littlelemon/
 
 if the link doesn't run, please run it via localhost,
-```you can remove this in package json
+
+you can remove this in package json
+```
  {  
     "homepage": "https://arifbudiprayoga.github.io/Cousera_littlelemon",
  }
